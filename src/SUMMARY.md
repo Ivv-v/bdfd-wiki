@@ -308,6 +308,7 @@
     - [$ping](./bdscript/ping.md)
     - [$pinMessage](./bdscript/pinMessage.md)
     - [$pinMessage[]](./bdscript/pinMessageComplex.md)
+    - [$playMusic](./bdscript/playMusic.md)
     - [$premiumExpireTime](./bdscript/premiumExpireTime.md)
     - [$publishMessage](./bdscript/publishMessage.md)
     - [$random](./bdscript/random.md)
